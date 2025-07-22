@@ -10,11 +10,11 @@ export function Header() {
                             <Image
                                 src="/images/Lilacロゴ.png"
                                 alt="Lilacロゴ"
-                                height={80}
-                                width={80}
+                                height={60}
+                                width={60}
                             />
                         </div>
-                        <h1 className="text-2xl font-bold text-gray-800">ボードゲームコミュニティ「Lilac」</h1>
+                        <h1 className="text-2xl font-bold text-gray-800">ボードゲームコミュニティ Lilac</h1>
                     </div>
                     <div className="hidden md:flex space-x-6">
                         <a href="#about" className="text-gray-600 hover:text-orange-600 transition-colors">
